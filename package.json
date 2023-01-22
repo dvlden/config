@@ -1,0 +1,17 @@
+{
+  "name": "@dvlden/config",
+  "version": "0.0.1",
+  "description": "My personal configuration files for various projects.",
+  "keywords": [
+    "typescript",
+    "prettier",
+    "eslint",
+    "config"
+  ],
+  "author": {
+    "name": "Nenad Novaković",
+    "email": "n.dvlden@gmail.com",
+    "url": "https://dvl.sh/"
+  },
+  "license": "MIT"
+}
